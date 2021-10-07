@@ -16,7 +16,7 @@ module.exports = {
       'http-requests'
     ],
     "🌏 Web Links": [
-      'website-links'
+      'links'
     ]
   },
   api: [
