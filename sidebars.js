@@ -14,6 +14,9 @@ module.exports = {
       'add-image-widget',
       'notif',
       'http-requests'
+    ],
+    "🌏 Web Links": [
+      'website-links'
     ]
   },
   api: [
